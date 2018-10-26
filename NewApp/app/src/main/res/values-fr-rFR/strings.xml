@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Application ALVES</string>
+    <string name="action_settings">Options</string>
+    <string name="main_txt_date">Date du jour</string>
+    <string name="main_txt_name">Nom</string>
+    <string name="main_txt_firstName">Prénom</string>
+    <string name="main_rad_male">Homme</string>
+    <string name="main_rad_female">Femme</string>
+    <string name="main_chk_c">C</string>
+    <string name="main_chk_cs">Csharp</string>
+    <string name="main_chk_cpp">C++</string>
+    <string name="main_txt_nbHours">Heures de jeu par semaine</string>
+    <string name="main_bt_reset">Raz</string>
+    <string name="main_bt_confirm">Valider</string>
+</resources>

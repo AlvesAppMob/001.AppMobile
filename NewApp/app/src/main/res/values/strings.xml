@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Application ALVES</string>
+    <string name="action_settings">Settings</string>
+    <string name="main_txt_date">Today\'s date</string>
+    <string name="main_txt_name">Name</string>
+    <string name="main_txt_firstName">First name</string>
+    <string name="main_rad_male">Male</string>
+    <string name="main_rad_female">Female</string>
+    <string name="main_chk_c">C</string>
+    <string name="main_chk_cs">Csharp</string>
+    <string name="main_chk_cpp">C++</string>
+    <string name="main_txt_nbHours">Gaming hours per week</string>
+    <string name="main_bt_reset">Reset</string>
+    <string name="main_bt_confirm">Confirm</string>
+</resources>
